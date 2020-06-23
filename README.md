@@ -5,7 +5,7 @@ We have created a database which stores all the basic details a Music Company sh
 This database can be used in different platforms and one can easily implement it in their program through SQL embedding.
 
 This repository includes all the documents related to this project from PPT, Term Paper, the various models namely EER(Extended Entity Model) and the Relational Model, Questions
-and their related solutions in the form queries.
+and their related solutions in the form of queries.
 
 One might refer to our project and I hope you will find this useful.
 
